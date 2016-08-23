@@ -1,0 +1,1 @@
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\App5.csproj;arm

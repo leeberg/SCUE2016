@@ -1,0 +1,46 @@
+﻿<Page
+    x:Class="App5.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App5"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Margin="0,0,0,0">
+        <Grid.Background>
+            <ImageBrush Stretch="None" ImageSource="Assets/galaxy.jpg" AlignmentY="Top" AlignmentX="Center"/>
+        </Grid.Background>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+
+        <Image Grid.Column="0" Grid.Row="0" Grid.RowSpan="1" Grid.ColumnSpan="3" Source="Assets/SCUE.png" Width="172"></Image> 
+
+        <Image Grid.Column="1" Grid.Row="1" Source="Assets/Humidity-icon.png" ></Image>
+        <Image Grid.Column="2" Grid.Row="1" Source="Assets/Fahrenheit-icon.png" ></Image>
+        <Image Grid.Column="3" Grid.Row="1" Source="Assets/Speaker-icon.png" ></Image>
+        
+        <Rectangle Grid.Column="1" Grid.Row="2" Fill="#FF404040" Opacity="0.75" />
+        <Rectangle Grid.Column="2" Grid.Row="2" Fill="#FF404040" Opacity="0.75" />
+        <Rectangle Grid.Column="3" Grid.Row="2" Fill="#FF404040" Opacity="0.75" />
+
+
+        <TextBlock x:ConnectionId='1' x:Name="TxtBlockHumidity" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Center" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Foreground="White" FontSize="64"/>
+        <TextBlock x:ConnectionId='2' x:Name="TxtBlockTemp" Grid.Column="2" Grid.Row="2" HorizontalAlignment="Center" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Foreground="White" FontSize="64"/>
+        <TextBlock x:ConnectionId='3' x:Name="TxtBlockNoise" Grid.Column="3" Grid.Row="2" HorizontalAlignment="Center" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Foreground="White" FontSize="64"/>
+        
+    </Grid>
+</Page>
+

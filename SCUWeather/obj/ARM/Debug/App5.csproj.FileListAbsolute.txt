@@ -1,0 +1,1083 @@
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\ApplicationInsights.config
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\App.xbf
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\MainPage.xbf
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\App5.xr.xml
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\App5.exe
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\App5.pdb
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\resources.pri
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\AppxManifest.xml
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\Core\App5.exe
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\Core\AppxManifest.xml
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\App5.build.appxrecipe
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\Amqp.Store.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\AzureSBLite.WinRT.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\Microsoft.ApplicationInsights.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\Microsoft.CSharp.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\Microsoft.IoT.Connections.Azure.winmd
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\Microsoft.IoT.DeviceCore.winmd
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\Microsoft.IoT.DeviceHelpers.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\Microsoft.IoT.Devices.winmd
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Core.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Net.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Numerics.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Runtime.Serialization.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.ServiceModel.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.ServiceModel.Web.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Windows.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Xml.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Xml.Linq.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Xml.Serialization.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\Microsoft.VisualBasic.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\Newtonsoft.Json.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.AppContext.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Collections.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Collections.Concurrent.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Collections.Immutable.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Collections.NonGeneric.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Collections.Specialized.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.ComponentModel.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Data.Common.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Diagnostics.Debug.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Diagnostics.Tools.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Dynamic.Runtime.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Globalization.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Globalization.Calendars.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Globalization.Extensions.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.IO.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.IO.Compression.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\ClrCompression.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.IO.FileSystem.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Linq.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Linq.Expressions.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Linq.Parallel.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Linq.Queryable.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Net.Http.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Net.Http.Rtc.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Net.NetworkInformation.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Net.Primitives.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Net.Requests.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Net.Sockets.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Numerics.Vectors.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.ObjectModel.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Private.Networking.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Private.ServiceModel.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Private.Uri.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Reflection.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Reflection.Context.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Reflection.Emit.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Reflection.Extensions.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Reflection.Metadata.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Reflection.Primitives.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Resources.ResourceManager.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Runtime.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Runtime.Extensions.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Runtime.Handles.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Runtime.InteropServices.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Runtime.Numerics.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Security.Claims.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Security.Principal.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.ServiceModel.Http.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.ServiceModel.Security.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Text.Encoding.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Text.RegularExpressions.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Threading.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Threading.Overlapped.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Threading.Tasks.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Threading.Timer.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Xml.XDocument.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Xml.XmlDocument.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\App5.csprojResolveAssemblyReference.cache
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\App.g.i.cs
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\App.g.cs
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\MainPage.g.i.cs
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\MainPage.g.cs
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\XamlTypeInfo.g.cs
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\App.xaml
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\MainPage.xaml
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\App.xbf
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\MainPage.xbf
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\XamlSaveStateFile.xml
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\App5.exe
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\App5.pdb
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\ResourceHandlingTask.state
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.AppContext.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.IO.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Private.Networking.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Reflection.Context.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\Amqp.Store\en-US\Amqp.SRAmqp.resw
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\App5.csproj.GenerateResource.Cache
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\priconfig.xml
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\priconfig.xml.intermediate
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\layout.resfiles
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\layout.resfiles.intermediate
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\resources.resfiles
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\resources.resfiles.intermediate
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\pri.resfiles
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\pri.resfiles.intermediate
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\qualifiers.txt
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\qualifiers.txt.intermediate
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\Amqp.Store.pri.xml
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\AzureSBLite.WinRT.pri.xml
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\Microsoft.IoT.Connections.Azure.pri.xml
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\Microsoft.IoT.DeviceCore.pri.xml
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\Microsoft.IoT.DeviceHelpers.pri.xml
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\Microsoft.IoT.Devices.pri.xml
+c:\users\leeal\documents\visual studio 2015\Projects\App5\App5\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\ApplicationInsights.config
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\App.xbf
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\MainPage.xbf
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\App5.xr.xml
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\App5.exe
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\App5.pdb
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\resources.pri
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\AppxManifest.xml
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\Core\App5.exe
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\App5.build.appxrecipe
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\Amqp.Store.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\AzureSBLite.WinRT.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\Microsoft.CSharp.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\Microsoft.IoT.Connections.Azure.winmd
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\Microsoft.IoT.DeviceCore.winmd
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\Microsoft.IoT.DeviceHelpers.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\Microsoft.IoT.Devices.winmd
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Core.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Net.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Numerics.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Runtime.Serialization.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.ServiceModel.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.ServiceModel.Web.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Windows.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Xml.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Xml.Linq.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Xml.Serialization.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\Microsoft.VisualBasic.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.AppContext.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Collections.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Collections.Concurrent.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Collections.Immutable.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Collections.NonGeneric.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Collections.Specialized.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.ComponentModel.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Data.Common.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Diagnostics.Debug.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Diagnostics.Tools.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Dynamic.Runtime.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Globalization.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Globalization.Calendars.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Globalization.Extensions.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.IO.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.IO.Compression.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\ClrCompression.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.IO.FileSystem.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Linq.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Linq.Expressions.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Linq.Parallel.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Linq.Queryable.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Net.Http.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Net.Http.Rtc.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Net.NetworkInformation.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Net.Primitives.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Net.Requests.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Net.Sockets.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Numerics.Vectors.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.ObjectModel.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Private.Networking.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Private.ServiceModel.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Private.Uri.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Reflection.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Reflection.Context.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Reflection.Emit.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Reflection.Extensions.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Reflection.Metadata.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Reflection.Primitives.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Resources.ResourceManager.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Runtime.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Runtime.Extensions.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Runtime.Handles.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Runtime.InteropServices.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Runtime.Numerics.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Security.Claims.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Security.Principal.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.ServiceModel.Http.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.ServiceModel.Security.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Text.Encoding.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Text.RegularExpressions.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Threading.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Threading.Overlapped.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Threading.Tasks.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Threading.Timer.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Xml.XDocument.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Xml.XmlDocument.dll
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\App5.csprojResolveAssemblyReference.cache
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\App.g.i.cs
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\App.g.cs
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\MainPage.g.cs
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\App.xaml
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\MainPage.xaml
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\App.xbf
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\MainPage.xbf
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\App5.exe
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\App5.pdb
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.IO.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\Amqp.Store\en-US\Amqp.SRAmqp.resw
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\App5.csproj.GenerateResource.Cache
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\priconfig.xml
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\layout.resfiles
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\resources.resfiles
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\pri.resfiles
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\qualifiers.txt
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\Amqp.Store.pri.xml
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\AzureSBLite.WinRT.pri.xml
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\Microsoft.IoT.Connections.Azure.pri.xml
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\Microsoft.IoT.DeviceCore.pri.xml
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\Microsoft.IoT.DeviceHelpers.pri.xml
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\Microsoft.IoT.Devices.pri.xml
+C:\Users\lberg\Desktop\App5\App5\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\lberg\Desktop\App5\App5\bin\ARM\Debug\Microsoft.Azure.Devices.Client.winmd
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\ApplicationInsights.config
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\App.xbf
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\MainPage.xbf
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\App5.xr.xml
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\App5.exe
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\App5.pdb
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\resources.pri
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\AppxManifest.xml
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\Core\App5.exe
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\App5.build.appxrecipe
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\Amqp.Store.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\AzureSBLite.WinRT.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\Microsoft.Azure.Devices.Client.winmd
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\Microsoft.CSharp.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\Microsoft.IoT.Connections.Azure.winmd
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\Microsoft.IoT.DeviceCore.winmd
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\Microsoft.IoT.DeviceHelpers.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\Microsoft.IoT.Devices.winmd
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Core.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Net.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Numerics.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Runtime.Serialization.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.ServiceModel.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.ServiceModel.Web.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Windows.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Xml.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Xml.Linq.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Xml.Serialization.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\Microsoft.VisualBasic.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.AppContext.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Collections.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Collections.Concurrent.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Collections.Immutable.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Collections.NonGeneric.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Collections.Specialized.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.ComponentModel.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Data.Common.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Diagnostics.Debug.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Diagnostics.Tools.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Dynamic.Runtime.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Globalization.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Globalization.Calendars.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Globalization.Extensions.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.IO.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.IO.Compression.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\ClrCompression.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.IO.FileSystem.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Linq.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Linq.Expressions.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Linq.Parallel.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Linq.Queryable.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Net.Http.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Net.Http.Rtc.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Net.NetworkInformation.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Net.Primitives.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Net.Requests.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Net.Sockets.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Numerics.Vectors.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.ObjectModel.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Private.Networking.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Private.ServiceModel.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Private.Uri.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Reflection.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Reflection.Context.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Reflection.Emit.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Reflection.Extensions.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Reflection.Metadata.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Reflection.Primitives.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Resources.ResourceManager.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Runtime.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Runtime.Extensions.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Runtime.Handles.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Runtime.InteropServices.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Runtime.Numerics.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Security.Claims.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Security.Principal.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.ServiceModel.Http.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.ServiceModel.Security.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Text.Encoding.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Text.RegularExpressions.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Threading.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Threading.Overlapped.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Threading.Tasks.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Threading.Timer.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Xml.XDocument.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Xml.XmlDocument.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\App5.csprojResolveAssemblyReference.cache
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\App.g.i.cs
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\App.g.cs
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\MainPage.g.cs
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\App.xaml
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\MainPage.xaml
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\App.xbf
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\MainPage.xbf
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\App5.exe
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\App5.pdb
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.IO.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\App5.csproj.GenerateResource.Cache
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\priconfig.xml
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\layout.resfiles
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\resources.resfiles
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\pri.resfiles
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\qualifiers.txt
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\Amqp.Store.pri.xml
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\AzureSBLite.WinRT.pri.xml
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\Microsoft.IoT.Connections.Azure.pri.xml
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\Microsoft.IoT.DeviceCore.pri.xml
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\Microsoft.IoT.DeviceHelpers.pri.xml
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\Microsoft.IoT.Devices.pri.xml
+C:\Users\lberg\Dropbox\SCU2016\SCU_IOT\SCUWeather\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\ApplicationInsights.config
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\App.xbf
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\MainPage.xbf
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\App5.xr.xml
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\App5.exe
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\App5.pdb
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\resources.pri
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\AppxManifest.xml
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Core\App5.exe
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\App5.build.appxrecipe
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Amqp.Store.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\AzureSBLite.WinRT.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Microsoft.Azure.Devices.Client.winmd
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Microsoft.CSharp.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Microsoft.IoT.Connections.Azure.winmd
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Microsoft.IoT.DeviceCore.winmd
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Microsoft.IoT.DeviceHelpers.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Microsoft.IoT.Devices.winmd
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Core.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Numerics.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.Serialization.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ServiceModel.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ServiceModel.Web.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Windows.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Xml.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Xml.Linq.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Xml.Serialization.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Microsoft.VisualBasic.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.AppContext.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Collections.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Collections.Concurrent.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Collections.Immutable.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Collections.NonGeneric.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Collections.Specialized.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ComponentModel.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Data.Common.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Diagnostics.Debug.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Diagnostics.Tools.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Dynamic.Runtime.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Globalization.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Globalization.Calendars.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Globalization.Extensions.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.IO.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.IO.Compression.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\ClrCompression.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.IO.FileSystem.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Linq.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Linq.Expressions.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Linq.Parallel.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Linq.Queryable.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.Http.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.Http.Rtc.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.NetworkInformation.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.Primitives.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.Requests.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.Sockets.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Numerics.Vectors.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ObjectModel.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Private.Networking.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Private.ServiceModel.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Private.Uri.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Reflection.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Reflection.Context.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Reflection.Emit.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Reflection.Extensions.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Reflection.Metadata.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Reflection.Primitives.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Resources.ResourceManager.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.Extensions.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.Handles.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.InteropServices.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.Numerics.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Security.Claims.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Security.Principal.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ServiceModel.Http.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ServiceModel.Security.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Text.Encoding.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Text.RegularExpressions.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Threading.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Threading.Overlapped.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Threading.Tasks.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Threading.Timer.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Xml.XDocument.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Xml.XmlDocument.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\App5.csprojResolveAssemblyReference.cache
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\App.g.i.cs
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\App.g.cs
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\MainPage.g.cs
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\App.xaml
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\MainPage.xaml
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\App.xbf
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\MainPage.xbf
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\App5.exe
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\App5.pdb
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.IO.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\Amqp.Store\en-US\Amqp.SRAmqp.resw
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\App5.csproj.GenerateResource.Cache
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\priconfig.xml
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\layout.resfiles
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\resources.resfiles
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\pri.resfiles
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\qualifiers.txt
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\Amqp.Store.pri.xml
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\AzureSBLite.WinRT.pri.xml
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\Microsoft.IoT.Connections.Azure.pri.xml
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\Microsoft.IoT.DeviceCore.pri.xml
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\Microsoft.IoT.DeviceHelpers.pri.xml
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\Microsoft.IoT.Devices.pri.xml
+C:\Users\leeal\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\ApplicationInsights.config
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\App.xbf
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\MainPage.xbf
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\App5.xr.xml
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\App5.exe
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\App5.pdb
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\resources.pri
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\AppxManifest.xml
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Core\App5.exe
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\App5.build.appxrecipe
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Amqp.Store.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\AzureSBLite.WinRT.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Microsoft.Azure.Devices.Client.winmd
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Microsoft.CSharp.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Microsoft.IoT.Connections.Azure.winmd
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Core.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Numerics.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.Serialization.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ServiceModel.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ServiceModel.Web.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Windows.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Xml.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Xml.Linq.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Xml.Serialization.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Microsoft.VisualBasic.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.AppContext.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Collections.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Collections.Concurrent.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Collections.Immutable.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Collections.NonGeneric.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Collections.Specialized.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ComponentModel.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Data.Common.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Diagnostics.Debug.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Diagnostics.Tools.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Dynamic.Runtime.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Globalization.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Globalization.Calendars.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Globalization.Extensions.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.IO.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.IO.Compression.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\ClrCompression.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.IO.FileSystem.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Linq.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Linq.Expressions.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Linq.Parallel.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Linq.Queryable.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.Http.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.Http.Rtc.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.NetworkInformation.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.Primitives.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.Requests.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.Sockets.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Numerics.Vectors.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ObjectModel.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Private.ServiceModel.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Private.Uri.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Reflection.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Reflection.Context.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Reflection.Emit.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Reflection.Extensions.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Reflection.Metadata.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Reflection.Primitives.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Resources.ResourceManager.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.Extensions.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.Handles.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.InteropServices.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.Numerics.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Security.Claims.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Security.Principal.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ServiceModel.Http.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.ServiceModel.Security.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Text.Encoding.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Text.RegularExpressions.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Threading.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Threading.Overlapped.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Threading.Tasks.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Threading.Timer.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Xml.XDocument.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Xml.XmlDocument.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\App5.csprojResolveAssemblyReference.cache
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\App.g.i.cs
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\App.g.cs
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\MainPage.g.cs
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\App.xaml
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\MainPage.xaml
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\App.xbf
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\MainPage.xbf
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\App5.exe
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\App5.pdb
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.IO.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\Amqp.Store\en-US\Amqp.SRAmqp.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\App5.csproj.GenerateResource.Cache
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\priconfig.xml
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\layout.resfiles
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\resources.resfiles
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\pri.resfiles
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\qualifiers.txt
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\Amqp.Store.pri.xml
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\AzureSBLite.WinRT.pri.xml
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\Microsoft.IoT.Connections.Azure.pri.xml
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Amqp.Store.pdb
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\AzureSBLite.WinRT.pdb
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.Http.Formatting.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Microsoft.Azure.Amqp.Uwp.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.Http.Extensions.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.Http.Primitives.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\PCLCrypto.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Buffers.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.NameResolution.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.WebSockets.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Net.WebSockets.Client.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Validation.dll
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\Validation\en-US\Validation.Strings.resw
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\obj\ARM\Debug\PCLCrypto.pri.xml
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\App5.exe.CodeAnalysisLog.xml
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\App5.exe.lastcodeanalysissucceeded
+C:\Users\lberg\Documents\GitHub\SCU2016---Dallas\SCUWeather\bin\ARM\Debug\Microsoft.Azure.Devices.Uwp.dll
